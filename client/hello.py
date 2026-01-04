@@ -1,0 +1,1 @@
+print("alsadir test client hello")
